@@ -1,0 +1,5 @@
+Please replace with actual images:
+
+1. /assets/tailor-workshop.jpg - Image of tailors or designers working in a workshop
+2. /assets/entrepreneur-laptop.jpg - Image of an entrepreneur or business person working with a laptop
+3. /assets/mission-people.jpg - Image of people carrying delivery boxes (like in the Tokopedia mission visual) 
